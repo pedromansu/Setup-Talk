@@ -1,6 +1,6 @@
 # Setup-Talk
 
-Computer Vision implementations and examples for disseminating Data Science through VideoTalk.
+Computer Vision implementations mixed with Deep Learning to disseminate Data Science through VideoTalk.
 
 1. image.py - Using HaarCascade models with photos.
 2. video.py - Using HaarCascade models with webcam.
